@@ -1,0 +1,13 @@
+{
+ "name": "express-boilerplate",
+ "version": "1.0.0",
+ "description": "Simple Express boilerplate using ES6 modules and arrow functions",
+ "main": "server.js",
+ "type": "module",
+ "scripts": {
+   "start": "node server.js"
+ },
+ "dependencies": {
+   "express": "^4.19.2"
+ }
+}
